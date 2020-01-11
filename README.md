@@ -1,2 +1,4 @@
 # hello_world
-just another repository
+
+Hi human, i love drarry
+just so you know
